@@ -4,6 +4,8 @@
 
 perturbation.py uses pygame to simulate a terminal which can be subjected to various corrupting effects.
 
+To see it in action, check out my game which implements it, [ASMRFactory](https://complexor.itch.io/asmrfactory)!
+
 ### Getting started
 
 While there are always four required parameters, there are three ways to initialize a PerturbationMatrix.
