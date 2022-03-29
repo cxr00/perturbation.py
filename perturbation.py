@@ -1,3 +1,8 @@
+"""
+https://github.com/cxr00/perturbation.py
+
+by Conrad
+"""
 from PIL import Image
 
 import pygame
