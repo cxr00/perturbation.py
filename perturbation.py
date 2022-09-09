@@ -3,7 +3,12 @@ https://github.com/cxr00/perturbation.py
 
 by Conrad
 """
-from PIL import Image
+
+# If you can't import it, that's fine
+try:
+    from PIL import Image
+except:
+    pass
 
 import pygame
 import random
